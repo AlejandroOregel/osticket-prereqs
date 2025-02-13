@@ -115,22 +115,38 @@ Rename the file "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C
 <img src="https://i.imgur.com/jRLhcnG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Rightclick the file renamed file and click on properties, from there click on security, click on advanced, then disable inheritance and click remove all, after that click on new permissions, type in everyone and apply.
+Rightclick the renamed file and click on properties, from there click on security, click on advanced, then disable inheritance and click remove all, after that click on new permissions, type in everyone and apply.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5IMr3Vp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within IIS click on the link on the right hand side that says Browse *:80 (http) This should take you to osTicket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KnODn48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Fill in the following info.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5hvuWCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After filling in your info you should be met with this page, proceed with the link that is listed under your staff control panel and fill in the required info.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/aOzZtdv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations you set up and installed osTIcket!
 </p>
 <br />
